@@ -1,1 +1,3 @@
-mod 'puppetlabs/postgresql', :latest
+mod 'puppetlabs/postgresql'
+mod 'puppetlabs/mysql'
+mod 'puppetlabs/java'
