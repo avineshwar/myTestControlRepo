@@ -1,0 +1,1 @@
+mod 'puppetlabs/postgresql', :latest
